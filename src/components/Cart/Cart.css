@@ -1,0 +1,12 @@
+.cart{
+    border: 1px solid gray;
+    padding: 25px;
+}
+
+.cart h5{
+    color: aqua;
+}
+
+.cart h3{
+    color: purple;
+}

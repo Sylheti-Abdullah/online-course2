@@ -1,0 +1,11 @@
+.course{
+    width: 425px;
+    padding:10px;
+    border: 1px solid gray;
+    margin: 10px;
+    border-bottom: 1px solid gray;
+}
+iframe{
+    width: 400px;
+    border: 1px solid gray;
+}

@@ -1,0 +1,11 @@
+.page-container{
+    display: flex;
+    margin: 10px;
+}
+.course-container{
+    width: 70%;
+    border-right: 1px solid gray;
+}
+.cart-container{
+    padding:15px;
+}
